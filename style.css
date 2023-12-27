@@ -1,0 +1,13 @@
+body{
+    background-color: black!important;
+}
+
+input[type=range]::-webkit-slider-thumb {
+    background: black;
+}
+input[type=range]::-moz-range-thumb {
+    background: black;
+}
+input[type=range]::-ms-thumb {
+    background: black;
+}
